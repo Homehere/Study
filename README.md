@@ -2,5 +2,6 @@ Study
 =====
 
 Start for code
-it's GREAT PROJECT!
-learn !!!! >_&lt;
+
+FOR DOC!!    http://docs.oracle.com/javase/8/docs/api/index.html?javax/swing/JPanel.html
+
